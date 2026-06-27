@@ -1,0 +1,6 @@
+{
+  "name": "Skup Aut do Afryki",
+  "description": "Profesjonalna, nowoczesna strona internetowa dla firmy zajmującej się skupem i eksportem samochodów na rynki afrykańskie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
